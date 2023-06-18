@@ -116,7 +116,7 @@ class BankAccount:
         print("Account Balance : " , self.balance , "Rs")
         
 # Testing the code :
-newAccount = BankAccount(181909121511, "Samchandu" , 2700)
+newAccount = BankAccount(123535678860, "Afreen" , 2800)
 # Creating Withdrawal Test
 newAccount.Withdrawal(300)
 # Create deposit test
